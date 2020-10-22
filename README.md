@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello and welcome, I'm Tommy Hamarsnes and I'm a bachelor student
 
-<!--
-**tommyhama95/tommyhama95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I and what do i do?
+- 3rd year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
+- Currently learning Swift/iOS, C# and .NET, Crossplatform and mostly React related frameworks
+- Fun fact: I play a lot of video games and I often like to stream it on [Twitch.tv/bartender64][twitch]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch with me
+
+[<img align="left" alt="Tommy Hamarsnes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Tommy Hamarsnes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+
+
+<br>
+<br>
+[linkedin]:  https://www.linkedin.com/in/tommy-hamarsnes-0085a8177/
+[youtube]: https://www.youtube.com/channel/UCOEIt6NjXTI2osHUoB_HfZQ
+[twitch]: https://www.twitch.tv/bartender64
