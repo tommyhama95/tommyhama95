@@ -6,7 +6,7 @@
 - Member of JavaBin community in Oslo, Norway since January 2020
 - Goals: Learning cloud development, using more Test Driven Development and testing tools like TravisCI
 - Sideproject: Looking in to redesigning java.no with other members of JavaBin
-- Fun fact: I play a lot of :video_games: and I often like to stream it on [Twitch.tv/bartender64][twitch]
+- Fun fact: I play a lot of video games and I often like to stream it on [Twitch.tv/bartender64][twitch]
 <br>
 
 ## How to get in touch
