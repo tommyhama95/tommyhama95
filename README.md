@@ -50,7 +50,7 @@
 <img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tommyhama95&show_icons=true&hide_border=true" />
  <br>
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95)](https://github.com/tommyhama95/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95)](https://github.com/tommyhama95/github-readme-stats)
 
 [twitch]: www.twitch.tv/bartender64
 [linkedin]: www.linkedin.com/in/tommy-hamarsnes-0085a8177/
