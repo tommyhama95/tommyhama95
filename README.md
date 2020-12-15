@@ -39,7 +39,7 @@
 <img align="left" alt="CSharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
-<img align="left" alt="Swift" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1138px-Swift_logo.svg.png" />
+<img align="left" alt="Swift" width="26px" src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" />
 
 
 
@@ -48,9 +48,6 @@
 
 <summary>Github Stats</summary>
 <img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tommyhama95&show_icons=true&hide_border=true" />
- <br>
- <br>
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95)](https://github.com/tommyhama95/github-readme-stats)
 
-[twitch]: www.twitch.tv/bartender64
+[twitch]: https://www.twitch.tv/bartender64
 [linkedin]: www.linkedin.com/in/tommy-hamarsnes-0085a8177/
