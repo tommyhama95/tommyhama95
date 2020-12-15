@@ -10,7 +10,8 @@
 <br>
 
 ## How to get in touch
-[<img align="left" alt="TommyHamarsnes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [Tommy Hamarsnes][linkedin]
+[<img align="left" alt="TommyHamarsnes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+<a>[Tommy Hamarsnes]</a>[linkedin]
 <br> 
 <img align="left" alt="TommyHamarsnes | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" /> tommyhamarsnes@gmail.com
 <br>
