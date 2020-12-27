@@ -19,10 +19,10 @@
 ## Projects in progress / planning
 #### In progress
 - Re-designing Java.no with other members of javaBin on Tuesdays. Link to repo: <a target="blank" href="https://github.com/javaBin/java.no">Java.no Repo</a> 
+- Zelda Ocarina of Time Randomizer Location Tracker
 #### Planning
-- RjukanKlatrepark (My own twist of it)
 - My game collection
-
+- PokeDex catch tracker
 
 <br>
 
