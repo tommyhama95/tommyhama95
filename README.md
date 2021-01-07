@@ -19,8 +19,8 @@
 ## Projects in progress / planning
 #### In progress
 - Re-designing Java.no with other members of javaBin on Tuesdays. Link to repo: <a target="blank" href="https://github.com/javaBin/java.no">Java.no Repo</a> 
-- Zelda Ocarina of Time Randomizer Location Tracker (Streaming on Mondays on Twitch)
-- ~~Twitch Bot~~ Streamlabs has a better built in system for this
+- Zelda Ocarina of Time Randomizer Location Tracker (Mondays on Twitch)
+- ~~Twitch Bot~~ - Streamlabs has a better built in system for this
 #### Planning
 - My game collection
 - PokeDex catch tracker
