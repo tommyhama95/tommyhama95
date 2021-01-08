@@ -1,4 +1,4 @@
-### Hello and welcome, I'm Tommy Hamarsnes and I'm a bachelor student
+## Hello and welcome, I'm Tommy Hamarsnes and I'm a bachelor student
 
 ## Who am I and what do i do?
 - 3rd year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
