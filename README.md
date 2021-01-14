@@ -34,7 +34,7 @@
 <img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Styled_Components" width="26px" src="https://styled-components.com/atom.png" />
+<img align="left" alt="Styled_Components" width="26px" src="https://avatars3.githubusercontent.com/u/20658825?s=280&v=4" />
 <img align="left" alt="Ionic" width="26px" src="https://hackr.io/tutorials/learn-ionic/logo/logo-ionic?ver=1587978084" />
 
 <br>
