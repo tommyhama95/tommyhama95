@@ -30,22 +30,23 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="30px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
+<img align="left" alt="Java" width="26px" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
 <img align="left" alt="Typescript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Ionic" width="30px" src="https://hackr.io/tutorials/learn-ionic/logo/logo-ionic?ver=1587978084" />
 
 <br>
-
+<br>
 
 ## Languages and tools I want to learn:
 
 <img align="left" alt="Sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="CSharp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" alt=".NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
-<img align="left" alt="Progressive Web App" width="30px" src="https://skalfa.com/wp-content/uploads/2018/11/pwa1.png" />
+<img align="left" alt="Progressive Web App" width="35px" src="https://skalfa.com/wp-content/uploads/2018/11/pwa1.png" />
 
+<br>
 <br>
 
 ## Languages and tools I have touched:
@@ -56,6 +57,7 @@
 <img align="left" alt="MongoDB" width="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
 <img align="left" alt="Styled_Components" width="30px" src="https://avatars3.githubusercontent.com/u/20658825?s=280&v=4" />
 
+<br>
 <br>
 <br>
 
