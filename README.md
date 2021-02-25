@@ -1,10 +1,10 @@
 ## Who am I and what do i do?
 - 3rd year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
 - Currently doing bachelor thesis at Bouvet Oslo
-- Member of JavaBin community in Oslo, Norway since January 2020
+- Active Member of JavaBin community in Oslo, Norway since January 2020
 - Goals: Learning cloud development, making Progressive web apps, learn more backend with C#/.NET or Java
-- Hobby: Training for Obstacle Course Race (when not so much winter)
-- Fun fact: I play a lot of video games and I often like to stream it on [Twitch.tv/bartender64][twitch]
+- Hobby: Training for Obstacle Course Race (when not so much winter) and hobby streamer on Twitch [Twitch.tv/bartender64][twitch]
+- Fun fact: Can't think of any 
 <br>
 
 ## How to get in touch
