@@ -42,7 +42,7 @@
 ## Languages and tools I want to learn:
 
 <img align="left" alt="Sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="CSharp" width="30px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
+<img align="left" alt="CSharp" width="30px" src="https://p92.com/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" />
 <img align="left" alt=".NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
 <img align="left" alt="Progressive Web App" width="35px" src="https://skalfa.com/wp-content/uploads/2018/11/pwa1.png" />
 
