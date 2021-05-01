@@ -11,7 +11,7 @@
 [<img align="left" alt="TommyHamarsnes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 <a href="https://www.linkedin.com/in/tommy-hamarsnes-0085a8177/">Tommy Hamarsnes</a>
 <br> 
-<img align="left" alt="TommyHamarsnes | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/1280px-Gmail_Icon.svg.png" /> tommyhamarsnes@gmail.com
+<img align="left" alt="TommyHamarsnes | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /> tommyhamarsnes@gmail.com
 <br>
 
 ## Projects in progress / planning
@@ -34,15 +34,15 @@
 <img align="left" alt="Typescript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Ionic" width="30px" src="https://hackr.io/tutorials/learn-ionic/logo/logo-ionic?ver=1587978084" />
-
+<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Styled_Components" width="30px" src="https://avatars3.githubusercontent.com/u/20658825?s=280&v=4" />
 <br>
 <br>
 
 ## Languages and tools I want to learn:
 
 <img align="left" alt="Sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="CSharp" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
+<img align="left" alt="CSharp" width="30px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" />
 <img align="left" alt=".NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
 <img align="left" alt="Progressive Web App" width="35px" src="https://skalfa.com/wp-content/uploads/2018/11/pwa1.png" />
 
@@ -51,11 +51,10 @@
 
 ## Languages and tools I have touched:
 
-<img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Kotlin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
+<img align="left" alt="Ionic" width="30px" src="https://hackr.io/tutorials/learn-ionic/logo/logo-ionic?ver=1587978084" />
+<img align="left" alt="Kotlin" width="30px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e3/f27630d13511e88dd241e68ded0cea/K_logo_800x800.png?auto=format%2Ccompress&dpr=1" />
 <img align="left" alt="Swift" width="30px" src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
-<img align="left" alt="Styled_Components" width="30px" src="https://avatars3.githubusercontent.com/u/20658825?s=280&v=4" />
 
 <br>
 <br>
