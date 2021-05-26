@@ -17,11 +17,11 @@
 ## Projects in progress / planning
 #### In progress
 - Re-designing Java.no with other members of javaBin on Tuesdays. Link to repo: <a target="blank" href="https://github.com/javaBin/java.no">Java.no Repo</a> 
-- Zelda Ocarina of Time Randomizer Location Tracker (Mondays on Twitch, usually)
+- Zelda Ocarina of Time Randomizer Location Tracker 
+- RjukanVet - A vetenarian website for my childhood friend in Rjukan to promote and help her with customers. Link will be available ones its done
 
 #### Planning
-- My game collection
-- PokeDex catch tracker
+- New Twitch intro using Three.js for animations and 3D objects! (Really hyped to do this one)
 
 <br>
 
