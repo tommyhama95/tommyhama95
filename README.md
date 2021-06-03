@@ -60,15 +60,16 @@
 <br>
 <br>
 
-<summary>Github Stats</summary>
-<img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommyhama95&count_private=true&show_icons=true&theme=tokyonight" />
+<ol>
+  <li>
+    <summary>Github Stats</summary>
+    <img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommyhama95&count_private=true&show_icons=true&theme=tokyonight" />
+  </li>
 
-<br/>
-<br/>
-<br/>
-
-<summary>Languages</summary>
-<img  alt="tommyhama95's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95" />
-
+  <li>
+    <summary>Languages</summary>
+    <img align="left" alt="tommyhama95's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95" />
+  </li>
+  
 [twitch]: https://www.twitch.tv/bartender64
 [linkedin]: www.linkedin.com/in/tommy-hamarsnes-0085a8177/
