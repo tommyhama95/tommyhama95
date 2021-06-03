@@ -62,7 +62,11 @@
 
 <summary>Github Stats</summary>
 <img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommyhama95&count_private=true&show_icons=true&theme=tokyonight" />
+
 <br/>
+<br/>
+<br/>
+
 <summary>Languages</summary>
 <img align="left" alt="tommyhama95's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95" />
 
