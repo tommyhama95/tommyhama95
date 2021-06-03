@@ -61,6 +61,8 @@
 <br>
 
 <summary>Github Stats</summary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 <img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tommyhama95&show_icons=true&hide_border=true" />
 
 [twitch]: https://www.twitch.tv/bartender64
