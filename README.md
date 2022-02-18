@@ -1,10 +1,10 @@
 ## Who am I and what do i do?
-- 3rd year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
+- Junior .NET fullstack developer
+- Bachelor graudate with <strong>Frontend and mobile-development</strong> at University of Kristiania in Oslo, Norway
 - My area of expertise is in web development
-- Currently doing bachelor thesis at Bouvet Oslo
 - Active Member of JavaBin community in Oslo, Norway since January 2020
-- Goals: Learning cloud development, making Progressive web apps, learn more backend with C#/.NET or Java
-- Hobby: Training for Obstacle Course Race (when not so much winter) and hobby streamer on Twitch [Twitch.tv/bartender64][twitch]
+- Goals: Learning cloud development, making Progressive web apps, learn more backend with C#/.NET, exploring more frameworks and libraries.
+- Hobby: Training for Obstacle Course Race (when not so much winter) and hobby streamer on Twitch [Twitch.tv/bartender64][twitch] (not so often anymore)
 <br>
 
 ## How to get in touch
@@ -14,14 +14,15 @@
 <img align="left" alt="TommyHamarsnes | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /> tommyhamarsnes@gmail.com
 <br>
 
-## Projects in progress / planning
+## Projects in progress / planning in order
 #### In progress
-- Re-designing Java.no with other members of javaBin on Tuesdays. Link to repo: <a target="blank" href="https://github.com/javaBin/java.no">Java.no Repo</a> 
-- Zelda Ocarina of Time Randomizer Location Tracker 
-- RjukanVet - A vetenarian website for my childhood friend in Rjukan to promote and help her with customers. Link will be available ones its done
+1. Next.js with Open Props (possibly to build the point nr 2 with).
+2. RjukanVet - A vetenarian website for my childhood friend in Rjukan to promote and help her with customers. (Currently in design process)
+3. Projects related to javaBin community 
+4. Zelda Ocarina of Time Randomizer Location Tracker (On pause, Beta is out at https://zelda-tracker.com)
 
 #### Planning
-- New Twitch intro using Three.js for animations and 3D objects! (Really hyped to do this one)
+- Exploring more around three.js library
 
 <br>
 
@@ -36,14 +37,13 @@
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Styled_Components" width="30px" src="https://avatars3.githubusercontent.com/u/20658825?s=280&v=4" />
+<img align="left" alt="CSharp" width="30px" src="https://p92.com/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" />
+<img align="left" alt=".NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
 <br>
 <br>
 
 ## Languages and tools I want to learn:
-
 <img align="left" alt="Sass" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
-<img align="left" alt="CSharp" width="30px" src="https://p92.com/binaries/content/gallery/p92website/technologies/c-sharp-overview.png" />
-<img align="left" alt=".NET" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/600px-.NET_Logo.svg.png" />
 <img align="left" alt="Progressive Web App" width="35px" src="https://skalfa.com/wp-content/uploads/2018/11/pwa1.png" />
 
 <br>
@@ -64,9 +64,6 @@
 
 <div>Github Stats</div>
 <img align="left" alt="tommyhama95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tommyhama95&count_private=true&show_icons=true&theme=tokyonight" />
-
-<div align="right">Languages</div>
-<img align="right" alt="tommyhama95's Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommyhama95" />
 
   
 [twitch]: https://www.twitch.tv/bartender64
