@@ -2,7 +2,6 @@
 - Junior .NET fullstack developer
 - Bachelor graudate with <strong>Frontend and mobile-development</strong> at University of Kristiania in Oslo, Norway
 - My area of expertise is in web development
-- Currently in-active Member of JavaBin community in Oslo, Norway since January 2020
 - Goals: Learning cloud development, making Progressive web apps, learn more backend with C#/.NET, exploring more frameworks and libraries.
 - Hobby: Training for Obstacle Course Race (when not so much winter) and hobby streamer on Twitch [Twitch.tv/bartender64][twitch] (not so often anymore)
 <br>
